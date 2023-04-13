@@ -6,4 +6,7 @@ In its current version (April 2023), the semente canvas/board has 4 main areas: 
 
 ![canvas - April 2023](canvas.png)
 
+![eixos - April 2023](semente-eixos.png)
+
+
 The semente canvas was designed by Bernardo van de Schepop and Instituto Neos with support from the University of Bristol.
