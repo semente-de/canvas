@@ -4,5 +4,6 @@
 
 In its current version (April 2023), the semente canvas/board has 4 main areas: soil, handling, time and fruits. It has also two additional areas: ethos/principles, and dilemmas.
 
+![canvas - April 2023](canvas.png)
 
 The semente canvas was designed by Bernardo van de Schepop and Instituto Neos with support from the University of Bristol.
